@@ -1,0 +1,97 @@
+body {
+	background-color: #55B1FF;
+}
+
+.header {
+	text-align: center;
+	font-size: 26px;
+	font-family: Acme;
+	color: #FF470D;
+}
+
+.table {
+	width: 500px;
+	height: 500px;
+	background-color: #38DCF5;
+	margin-left: 670px;
+	margin-top: 100px;
+	border: outset;
+	border-width: 4px;
+	position: relative;
+	cursor: pointer;
+	
+}
+
+button {
+	width: 112px;
+	height: 55px;
+	margin-left: 12px;
+	margin-top: 25px;
+	cursor: pointer;
+	color: #E5DEE5;
+	background-color: #292729;
+}
+
+button:hover {
+	color: #0E0E0F;
+	background-color: #00FF00;
+	border-color: #00FF00;
+}
+
+.output {
+	background-color: #C7DCF5;
+	width: 90%;
+	height: 55px;
+	margin-left: 20px;
+
+}
+
+#out {
+	text-align: right;
+	margin-right: 10px;
+	padding-top: 20px;
+	font-size: 30px;
+}
+
+.btn {
+	font-size: 23px;
+}
+
+.lord {
+	background-image: url(arrow-left.jpg) no-repeat;
+}
+
+.lord, .lord2, .lord3 {
+	margin-right: 2px;
+	margin-left: 77%;
+	margin-top: -43%;
+	float: right;
+	font-size: 29px;
+}
+
+.lord2 {
+	margin-top: -27%;
+}
+
+.lord3 {
+	margin-top: -11%;
+}
+
+.sign {
+	margin-top: 15px;
+	font-size: 29px;
+}
+
+.equal {
+	width: 102px;
+	height: 48px;
+	font-size: 29px;
+}
+
+#zero {
+	width: 180px;
+}
+
+#c {
+	background-color: #960000;
+}
